@@ -1,6 +1,6 @@
-name: Riggleman Research Lab
-description: Computational research on polymer and glassy materials from the Riggleman Lab at the University of Pennsylvania
-url: http://rrgroup.seas.upenn.edu
+name: Guan's Research Lab
+description: Guan's Research Lab at Kent State University
+url: http://guans.cs.kent.edu/
 
 markdown: kramdown
 permalink: /:categories/:title/

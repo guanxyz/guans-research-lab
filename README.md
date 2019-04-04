@@ -1,4 +1,4 @@
-# Riggleman Lab Website
+# Guan's Lab Website
 
 This git repository contains the source files necessary to generate the lab website found on [rrgroup.seas.upenn.edu](http://rrgroup.seas.upenn.edu/). The website is built using a [static site generator](https://davidwalsh.name/introduction-static-site-generators) called [Jekyll](http://jekyllrb.com/). Jekyll is a Ruby program, but don't worry...you won't have to do any coding in Ruby to make changes to this site. You will, however, need to download Ruby and a few Ruby packages. Just follow the steps below if you want to make changes.
 
